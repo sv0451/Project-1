@@ -1,0 +1,21 @@
+Problem description-
+
+Santo bought some oranges in a fruit shop. The shop keeper specified the bill amount.
+Santo also have given some money to the shop keeper in order to settle the bill. 
+But he wants to know the quotient and remainder after dividing the money given 
+by him by the bill amount specified by shop keeper. Can you help Santo in finding it?
+
+Constraint :
+5 ≤ amount_given≤ 2500
+5 ≤ bill_amount ≤ 2500
+ 
+Input Format
+ 
+First Line: Integer value of amount_given representing the amount given by Santo.
+Second Line: Integer value of Bill_amount representing the amount specified by the shopkeeper.
+ 
+Output Format
+ 
+First Line: Print the Quotient in integer format.
+Second Line: Print the Remainder in integer format.
+ 
